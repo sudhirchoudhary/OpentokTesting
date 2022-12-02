@@ -1,0 +1,7 @@
+package com.example.opentoktesting;
+
+public final class Constants {
+    public static final String API_KEY = "47617431";
+    public static final String SESSION_ID = "2_MX40NzYxNzQzMX5-MTY2OTk2MjAxMzkzN35LTXg0U3duRDdxS2pzOHNqdnFoM3BMQTJ-fg";
+    public static final String TOKEN = "T1==cGFydG5lcl9pZD00NzYxNzQzMSZzaWc9ZWYwYjJiYmI0ZTQyMzg4MjIwYWFlZGFlNGViMTg4NzI4YzM4ZjU2YjpzZXNzaW9uX2lkPTJfTVg0ME56WXhOelF6TVg1LU1UWTJPVGsyTWpBeE16a3pOMzVMVFhnMFUzZHVSRGR4UzJwek9ITnFkbkZvTTNCTVFUSi1mZyZjcmVhdGVfdGltZT0xNjY5OTYyMDI1Jm5vbmNlPTAuOTAxODgzNTE3MzI0OTYwNCZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNjcwMDQ4NDI1JmluaXRpYWxfbGF5b3V0X2NsYXNzX2xpc3Q9";
+}
